@@ -1,4 +1,4 @@
-# Dirctory Structure
+# Directory Structure
 
 hotel-management/
 │
@@ -18,7 +18,7 @@ hotel-management/
 
 # Overview
 
-This code represents a basic hotel management system built using Node.js, Express.js, and MongoDB. It follows the MVC (Model-View-Controller) pattern for structuring the application.
+This code represents a basic hotel management system built using Node.js, Express.js, and MongoDB. It follows the Controller pattern for structuring the application.
 
 # Components
 
